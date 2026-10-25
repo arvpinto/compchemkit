@@ -27,9 +27,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/cc-today.png" width="260" alt="Today view">
-    <img src="screenshots/cc-projects.png" width="260" alt="Projects view">
-    <img src="screenshots/cc-capture-paper.png" width="260" alt="Adding a paper from Crossref">
+    <img src="screenshots/cc-today.png" width="260" loading="lazy" alt="Today view">
+    <img src="screenshots/cc-projects.png" width="260" loading="lazy" alt="Projects view">
+    <img src="screenshots/cc-capture-paper.png" width="260" loading="lazy" alt="Adding a paper from Crossref">
 </div>
 
 <br>
@@ -48,9 +48,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/ln-meetings.png" width="260" alt="Meeting notes with action items">
-    <img src="screenshots/ln-ideas.png" width="260" alt="Ideas board">
-    <img src="screenshots/ln-plans-code.png" width="260" alt="Script skeleton generated from a plan">
+    <img src="screenshots/ln-meetings.png" width="260" loading="lazy" alt="Meeting notes with action items">
+    <img src="screenshots/ln-ideas.png" width="260" loading="lazy" alt="Ideas board">
+    <img src="screenshots/ln-plans-code.png" width="260" loading="lazy" alt="Script skeleton generated from a plan">
 </div>
 
 <br>
@@ -67,9 +67,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/lh-papers-search.png" width="260" alt="Searching Crossref for a paper">
-    <img src="screenshots/lh-radar.png" width="260" alt="New papers in the radar">
-    <img src="screenshots/lh-citations.png" width="260" alt="Citation dashboard">
+    <img src="screenshots/lh-papers-search.png" width="260" loading="lazy" alt="Searching Crossref for a paper">
+    <img src="screenshots/lh-radar.png" width="260" loading="lazy" alt="New papers in the radar">
+    <img src="screenshots/lh-citations.png" width="260" loading="lazy" alt="Citation dashboard">
 </div>
 
 <br>
@@ -88,9 +88,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/hpc-tracker.png" width="260" alt="Calculation tracker">
-    <img src="screenshots/hpc-scripts.png" width="260" alt="Job script generator">
-    <img src="screenshots/hpc-bench.png" width="260" alt="Benchmarks">
+    <img src="screenshots/hpc-tracker.png" width="260" loading="lazy" alt="Calculation tracker">
+    <img src="screenshots/hpc-scripts.png" width="260" loading="lazy" alt="Job script generator">
+    <img src="screenshots/hpc-bench.png" width="260" loading="lazy" alt="Benchmarks">
 </div>
 
 <br>
@@ -107,9 +107,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/ss-viewer-pocket.png" width="260" alt="Ligand pocket in the viewer">
-    <img src="screenshots/ss-qmmm.png" width="260" alt="QM/MM region builder">
-    <img src="screenshots/ss-watcher.png" width="260" alt="Structure watcher">
+    <img src="screenshots/ss-viewer-pocket.png" width="260" loading="lazy" alt="Ligand pocket in the viewer">
+    <img src="screenshots/ss-qmmm.png" width="260" loading="lazy" alt="QM/MM region builder">
+    <img src="screenshots/ss-watcher.png" width="260" loading="lazy" alt="Structure watcher">
 </div>
 
 <p align="center"><i>The viewer shows HIV-1 protease with its inhibitor (PDB 1HVR); the QM/MM example is the zinc site of a zinc finger (PDB 5A7U, with hydrogens added).</i></p>
@@ -128,9 +128,9 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/pk-plots-code.png" width="260" alt="Plot guide script">
-    <img src="screenshots/pk-schemes.png" width="260" alt="Mechanism scheme editor">
-    <img src="screenshots/pk-journals.png" width="260" alt="Journal selector">
+    <img src="screenshots/pk-plots-code.png" width="260" loading="lazy" alt="Plot guide script">
+    <img src="screenshots/pk-schemes.png" width="260" loading="lazy" alt="Mechanism scheme editor">
+    <img src="screenshots/pk-journals.png" width="260" loading="lazy" alt="Journal selector">
 </div>
 
 <br>
@@ -145,8 +145,8 @@
 <br/>
 
 <div align="center">
-    <img src="screenshots/cc-settings.png" width="260" alt="Colour scheme settings">
-    <img src="screenshots/theme-light-today.png" width="260" alt="Light Ocean scheme">
+    <img src="screenshots/cc-settings.png" width="260" loading="lazy" alt="Colour scheme settings">
+    <img src="screenshots/theme-light-today.png" width="260" loading="lazy" alt="Light Ocean scheme">
 </div>
 
 <br/>

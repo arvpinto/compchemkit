@@ -1,6 +1,16 @@
 title: "CompChemKit: an Android app for computational chemistry"
-show_downloads: true
-google_analytics:
-remote_theme: pages-themes/cayman@v0.2.0
+description: An Android app for everyday work in computational chemistry and molecular modelling, with a lab notebook, literature hub, HPC workbench, structure studio and paper kit.
+author: Alexandre V. Pinto
+lang: en
+image: /assets/img/compchemkit.png
+
+# Download shown at the top of the page. Update both when a new APK is released.
+apk: compchemkit-1.0.0.apk
+version: 1.0.0
+
+# Main site (CompBioChem Tutorials), linked from the menu bar and the footer.
+home_url: https://arvpinto.github.io/
+
+# The page uses its own layout and stylesheet (no remote theme), matching the main site.
 plugins:
-- jekyll-remote-theme
+  - jekyll-seo-tag
